@@ -1,0 +1,10 @@
+{
+    "project": "Automated Data Cleaning & Validation System",
+    "module": "Module 3 - Data Validation",
+    "status": "Success",
+    "checks": {
+        "negative_sales_count": 0,
+        "negative_profit_count": 1871,
+        "is_data_valid": true
+    }
+}
